@@ -4,6 +4,10 @@
   </a>
 </p>
 
+[![Known Vulnerabilities](https://snyk.io/test/github/rajtilakjee/chatoverflow/badge.svg)]
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
 # ChatOverflow
 
 ChatOverflow is a powerful tool that empowers developers to generate high-quality, customized code with ease. Using the advanced natural language processing capabilities of the OpenAI ChatGPT model, ChatOverflow is able to analyze user input and generate code that meets specific programming requirements.
