@@ -28,15 +28,21 @@ To use the ChatGPT Code Generator follow the steps below:
 
 1. Clone this GitHub repo using the following command
 
-  `git clone https://github.com/rajtilakjee/chatoverflow.git`
+```
+git clone https://github.com/rajtilakjee/chatoverflow.git
+```
 
 2. Install all the modules/libraries given in the `requirements.txt` file
 
-  `pip install -r requirements. txt`
+```
+pip install -r requirements. txt
+```
 
 3. Run the program
 
-  `python chatoverflow.py`
+```
+python chatoverflow.py
+```
 
 # Share with the community
 
@@ -48,7 +54,7 @@ Please consider sharing a post about [ChatOverflow](https://github.com/rajtilakj
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/rajtilakjee/chatoverflow/)
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/rajtilakjee/chatoverflow/&title=The%20Ultimate%20Code%20Generator%20for%20Faster,%20Smarter%20Coding)
 
-## Contribution
+# Contribution
 
 There are many ways to contribute to the DevMaps OpenSource project:
 
