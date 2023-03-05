@@ -28,15 +28,15 @@ To use the ChatGPT Code Generator follow the steps below:
 
 1. Clone this GitHub repo using the following command
 
-`git clone https://github.com/rajtilakjee/chatoverflow.git`
+  `git clone https://github.com/rajtilakjee/chatoverflow.git`
 
 2. Install all the modules/libraries given in the `requirements.txt` file
 
-`pip install -r requirements. txt`
+  `pip install -r requirements. txt`
 
 3. Run the program
 
-`python chatoverflow.py`
+  `python chatoverflow.py`
 
 # Share with the community
 
