@@ -4,9 +4,11 @@
   </a>
 </p>
 
-[![Known Vulnerabilities](https://snyk.io/test/github/rajtilakjee/chatoverflow/badge.svg)]
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+<p align="center">
+  <a href="https://github.com/rajtilakjee/chatoverflow/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
+  </a>
+</p>
 
 # ChatOverflow
 
