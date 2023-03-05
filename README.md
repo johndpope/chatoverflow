@@ -56,11 +56,12 @@ Please consider sharing a post about [ChatOverflow](https://github.com/rajtilakj
 
 # Contribution
 
-There are many ways to contribute to the DevMaps OpenSource project:
+There are many ways to contribute to the ChatOverflow OpenSource project:
 
  - Give a GitHub star to the project
  - Create GitHub issues and help us to find bugs and/or request features
  - Contribute to the source code
+ - Become a [Sponsor](https://github.com/sponsors/rajtilakjee)
 
 Please check our [CONTRIBUTING](CONTRIBUTING.md) guidelines.
 
@@ -72,7 +73,8 @@ Please check our [CONTRIBUTING](CONTRIBUTING.md) guidelines.
 
 # Credits
 
- - Thanks to Open AI
+ - CHatOverflow would not be possible without the incredible natural language processing capabilities of the [OpenAI](https://openai.com/) ChatGPT model. We are grateful for their contributions to the field of AI and machine learning.
+ - Thanks to [Antonio Cheong](https://github.com/acheong08) who reverse engineered the chatGPT API.
 
 # License
 
