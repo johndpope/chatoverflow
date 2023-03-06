@@ -36,7 +36,9 @@ git clone https://github.com/rajtilakjee/chatoverflow.git
 pip install -r requirements. txt
 ```
 
-3. Run the program
+3. Fill in your Open AI details in the .env file
+
+5. Run the program
 
 ```
 python chatoverflow.py
