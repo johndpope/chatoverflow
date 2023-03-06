@@ -4,9 +4,12 @@ import os
 
 load_dotenv()
 
+OPENAI_EMAIL=os.getenv("OPENAI_EMAIL")
+OPENAI_PASSWORD=os.getenv("OPENAI_PASSWORD")
+
 chatbot = Chatbot(config={
-    "email": os.getenv(OPENAI_EMAIL),
-    "password": os.getenv(OPENAI_PASSWORD)
+    "email": OPENAI_EMAIL,
+    "password": OPENAI_PASSWORD
 })
 
 prompt = input("What do you want to code today? \n\n")
