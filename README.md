@@ -4,11 +4,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rajtilakjee/chatoverflow/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
-  </a>
-</p>
+
+![MIT License](https://img.shields.io/github/license/rajtilakjee/chatoverflow?style=for-the-badge)
+
 
 # ChatOverflow
 
