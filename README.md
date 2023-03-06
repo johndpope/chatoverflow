@@ -5,7 +5,7 @@
 </p>
 
 
-![MIT License](https://img.shields.io/github/license/rajtilakjee/chatoverflow?style=for-the-badge)
+![MIT License](https://img.shields.io/github/license/rajtilakjee/chatoverflow?style=for-the-badge) ![Sponsors](https://img.shields.io/github/sponsors/rajtilakjee?style=for-the-badge) ![GitHub Stars](https://img.shields.io/github/stars/rajtilakjee/chatoverflow?style=for-the-badge) ![Release](https://img.shields.io/github/v/release/rajtilakjee/chatoverflow?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/rajtilakjee/chatoverflow?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Open-Source](https://img.shields.io/badge/Open%20Source%20Initiative-3DA639.svg?style=for-the-badge&logo=Open-Source-Initiative&logoColor=white)
 
 
 # ChatOverflow
